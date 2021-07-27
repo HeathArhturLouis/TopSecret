@@ -1,0 +1,8 @@
+SpearPhishingConfidenceText	SpearPhishingConfidenceChange	ConfidenceChangeCount
+Moderate confidence	Somewhat negatively	1
+Moderate confidence	Somewhat positively	5
+High confidence	Somewhat negatively	1
+High confidence	No change at all	2
+High confidence	Somewhat positively	7
+High confidence	Very positively	2
+Full confidence	No change at all	1

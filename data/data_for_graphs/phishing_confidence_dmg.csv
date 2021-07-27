@@ -1,0 +1,8 @@
+PhishingConfidenceText	PhishingConfidenceChange	ConfidenceChangeCount
+High confidence	No change at all	3
+High confidence	Somewhat positively	4
+High confidence	Very positively	2
+Full confidence	Somewhat negatively	2
+Full confidence	No change at all	4
+Full confidence	Somewhat positively	2
+Full confidence	Very positively	2

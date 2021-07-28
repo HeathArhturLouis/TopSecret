@@ -1,0 +1,5 @@
+Training	AvgPerfChangeGeneral	AvgPerfChangeDMG	AvgPerfChangeFG
+No training	1.313	1.889	0.571
+Formal only	1.333	2.000	1.750
+Informal only	1.167	0.000	0.000
+Formal & informal	0.923	1.167	0.714
